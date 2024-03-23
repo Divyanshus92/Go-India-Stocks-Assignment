@@ -1,4 +1,4 @@
-# Next js based Go India Stocks discussion and marrket stories based web application
+# Next js based Go India Stocks discussion and market stories based web application
 
 This is a Nextjs-based web application that allows users to browse discussion forum posts and market stories.Works with responsiveness on desktop as well as Mobile devices.
 ## Features
