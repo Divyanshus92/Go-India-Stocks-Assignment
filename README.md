@@ -29,7 +29,7 @@ npm install/yarn install
 
 ## Built With
 
-- Nextjs- JavaScript library built on top of Reactjs for building user interfaces
+- Nextjs- built on top of Reactjs framework and javascript for building user interfaces
 - Tailwind CSS - Utility-first CSS framework
 - Other dependencies listed in package.json
 
