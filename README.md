@@ -11,13 +11,13 @@ This is a React-based web application that allows users to browse discussion for
 ## Installation
 
 1. Clone the repository to your local machine:
-git clone https://github.com/Pranavsing/GoIndiaStocks.git
+git clone https://github.com/Go-India-Stocks-Assignment
 
 2. Navigate to the project directory:
-cd go_india
+cd filename
 
 3. Install dependencies:
-npm install
+npm install/yarn install
 
 
 ## Usage
