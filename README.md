@@ -1,6 +1,6 @@
 # Discussion Forum and Market Stories App
 
-This is a React-based web application that allows users to browse discussion forum posts and market stories. Users can toggle between the Discussion Forum and Market Stories sections to view content relevant to their interests.
+This is a Nextjs-based web application that allows users to browse discussion forum posts and market stories. Users can toggle between the Discussion Forum and Market Stories sections to view content relevant to their interests.
 
 ## Features
 
@@ -30,7 +30,7 @@ npm install/yarn install
 
 ## Built With
 
-- React - JavaScript library for building user interfaces
+- Nextjs- JavaScript library built on top of Reactjs for building user interfaces
 - Tailwind CSS - Utility-first CSS framework
 - Other dependencies listed in package.json
 
