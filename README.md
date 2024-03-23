@@ -1,7 +1,6 @@
 # Discussion Forum and Market Stories App
 
-This is a Nextjs-based web application that allows users to browse discussion forum posts and market stories. Users can toggle between the Discussion Forum and Market Stories sections to view content relevant to their interests.
-
+This is a Nextjs-based web application that allows users to browse discussion forum posts and market stories.Works with responsiveness on desktop as well as Mobile devices.
 ## Features
 
 - **Discussion Forum**: View and interact with discussion forum posts shared by users.
@@ -14,7 +13,7 @@ This is a Nextjs-based web application that allows users to browse discussion fo
 git clone https://github.com/Go-India-Stocks-Assignment
 
 2. Navigate to the project directory:
-cd filename
+cd go-india-stocks-assignment(projectname)
 
 3. Install dependencies:
 npm install/yarn install
